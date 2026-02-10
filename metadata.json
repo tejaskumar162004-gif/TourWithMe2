@@ -1,0 +1,8 @@
+
+{
+  "name": "TourWithMe - Premium International Travel Agency",
+  "description": "A comprehensive travel agency platform with a modern frontend and a powerful admin dashboard for full site customization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
